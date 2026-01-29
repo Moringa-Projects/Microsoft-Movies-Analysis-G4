@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "dsc-project-template",
+			"path": "../dsc-project-template"
+		},
+		{
+			"name": "project1",
+			"path": "../project1"
+		}
+	],
+	"settings": {}
+}
