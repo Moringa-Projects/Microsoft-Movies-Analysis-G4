@@ -32,7 +32,7 @@ Microsoft sees all the big companies creating original video content, and it wan
 
 ### Deliverables
 *  Cleaned and enriched datasets from four sources(IMDb.title ratings, IMDb.title.basics,movie_gross, Tn.movie_budget).
-
+    
 *  Data visualizations illustrating the trend of movie genres, gross, and budget.
 
 *  Features with the strongest positive and negative correlations.
@@ -42,3 +42,5 @@ Microsoft sees all the big companies creating original video content, and it wan
 ### Final Goal
 To provide Microsoft with data that will help them decide on what types of movies to produce to ensure their studio is both profitable and competitive.
 
+
+![alt text](image-2.png)
