@@ -44,3 +44,5 @@ To provide Microsoft with data that will help them decide on what types of movie
 
 
 ![alt text](image-2.png)
+
+![alt text](image-3.png)
