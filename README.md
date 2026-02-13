@@ -92,24 +92,16 @@ Except for 2014, the gross revenue has been on a steady rise over the years; imp
 
 ## Conclusion
 
-From our data-driven observations, we see Drama and Comedy being the genres with the most produced movies while Adult and Gameshow 
+From our data-driven observations, we see:
 
-the least number of movies. 
+*  Drama and Comedy being the genres with the most produced movies while Adult and Gameshow the least number of movies. 
 
-When we look at the ratings we see Sport, Documentary and Biography rating quite highly. But drama is not doing badly either as it is 
+*  When we look at the ratings we see Sport, Documentary and Biography rating quite highly. But drama is not doing badly either as it is in the top half.
 
-in the top half.
+*  On further investigating if a good rating translates to good income, we realize highly rated movies infact gross less than poorly rated movies. The averagely rated movies gross extremely highly giving us an indication that rating alone is not a good decision making 
 
-On further investigate if a good rating translates to good income we realize highly rated movies infact gross less than poorly rated 
+   factor. We would therefore recommend producing high grossing movies i.e Drama and Comedy as they gross highly. A high gross could translate to high profits since these two variables are positevly correlated.
 
-movies. The averagely rated movies gross extremely highly giving us an indication that rating alone is not a good decision making 
+*  To understand the competition in the market, we see the studio gross trends places BV Studios as the averagely top studio over the years. 
 
-factor. We would therefore recommend producing high grossing movies i.e Drama and Comedy as they gross highly. A high gross could 
-
-translate to high profits since these two variables are positevly correlated.
-
-To understand the competition in the market, we see the studio gross trends places BV Studios as the averagely top studio over the 
-
-years. And lastly, we see the that the industry has had a steady growth based on the sales except for one year. Film is therefore 
-
-still a promising industry and we would recommend Microsoft ventures into it.
+*  Lastly, we see that the industry has had a steady growth based on the sales except for one year. Film is therefore still a promising industry and we would recommend Microsoft ventures into it.
