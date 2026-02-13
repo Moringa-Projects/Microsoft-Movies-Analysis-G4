@@ -99,8 +99,7 @@ From our data-driven observations, we see:
 *  When we look at the ratings we see Sport, Documentary and Biography rating quite highly. But drama is not doing badly either as it is in the top half.
 
 *  On further investigating if a good rating translates to good income, we realize highly rated movies infact gross less than poorly rated movies. The averagely rated movies gross extremely highly giving us an indication that rating alone is not a good decision making 
-
-   factor. We would therefore recommend producing high grossing movies i.e Drama and Comedy as they gross highly. A high gross could translate to high profits since these two variables are positevly correlated.
+  factor. We would therefore recommend producing high-grossing movies i.e Drama and Comedy as they gross highly. A high gross could translate to high profits since these two variables are positevly correlated.
 
 *  To understand the competition in the market, we see the studio gross trends places BV Studios as the averagely top studio over the years. 
 
